@@ -1,4 +1,4 @@
-package Session01.Baitap03;
+package Session01.Baitap3;
 
 public class Bai03 {
     public static void main(String[] args) {

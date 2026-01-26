@@ -10,10 +10,13 @@ public class Bai01 {
         System.out.println("Số sách đang giữ: ");
         int bookId = sc.nextInt();
 
-        if (age >= 18 && bookId < 3) {
-            System.out.println("Kết quả: Bạn đủ điều kiện mượn sách quý hiếm");
-        } else {
-            System.out.println("kết quả: không đủ điều kiện - Lý do: Bạn đã mượn tối đa 3 cuốn");
-        }
+        if (age >= 18 && bookId <= 3) {
+            System.out.println("Cho phép mượn sách");
+        } else{
+            if (age < 18) {
+                System.out.println("Bạn chưa đủ tuổi");
+            } else if (bookId > 3) {
+                System.out.println("Bạn đã mượn quá số lượng cho phép");
+            } }
     }
 }

@@ -1,4 +1,4 @@
-package Session01.Baitap02;
+package Session01.Baitap2;
 
 import java.util.Scanner;
 

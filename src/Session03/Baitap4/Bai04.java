@@ -1,6 +1,5 @@
-package Session03.Baitap04;
+package Session03.Baitap4;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Bai04 {

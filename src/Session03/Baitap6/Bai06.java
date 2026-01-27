@@ -1,4 +1,4 @@
-package Session03.Baitap06;
+package Session03.Baitap6;
 
 import java.util.Arrays;
 

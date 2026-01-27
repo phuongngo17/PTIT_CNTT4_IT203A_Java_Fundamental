@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bf59084-b0b5-445c-a59d-78edd4a58cfe" name="Changes" comment="session03" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;phuongngo17&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/phuongngo17/PTIT_CNTT4_IT203A_Java_Fundamental&quot;,
+    &quot;accountId&quot;: &quot;c901ef25-3194-46e5-91f1-7df49a575469&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="38kpBlj9KtG29aQoH3Ox6xhiLvC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Bai01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaySoLienTuc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemSo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;ToolWindow.Commit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bf59084-b0b5-445c-a59d-78edd4a58cfe" name="Changes" comment="" />
+      <created>1769353289336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769353289336</updated>
+    </task>
+    <task id="LOCAL-00001" summary="src/Session01">
+      <option name="closed" value="true" />
+      <created>1769354113213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769354113213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="session02">
+      <option name="closed" value="true" />
+      <created>1769413605256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769413605256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="session02">
+      <option name="closed" value="true" />
+      <created>1769417722968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769417722968</updated>
+    </task>
+    <task id="LOCAL-00004" summary="session02">
+      <option name="closed" value="true" />
+      <created>1769422123813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769422123813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="session02">
+      <option name="closed" value="true" />
+      <created>1769422540342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769422540342</updated>
+    </task>
+    <task id="LOCAL-00006" summary="session03">
+      <option name="closed" value="true" />
+      <created>1769520512955</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769520512955</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="/src" />
+    <MESSAGE value="src/Session01" />
+    <MESSAGE value="session02" />
+    <MESSAGE value="session03" />
+    <option name="LAST_COMMIT_MESSAGE" value="session03" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>

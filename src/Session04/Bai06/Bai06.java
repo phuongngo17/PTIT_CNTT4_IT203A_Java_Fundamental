@@ -1,10 +1,10 @@
 package Session04.Bai06;
 
+import java.util.Scanner;
 import java.util.regex.*;
 
 public class Bai06 {
     public static void main(String[] args) {
-
         String review = "Cuốn sách này rất tệ " + "nội dung thật là ngu ngốc và không đáng được";
 
         String[] blacklist = {"ngu ngốc", "tệ", "không đáng được"};

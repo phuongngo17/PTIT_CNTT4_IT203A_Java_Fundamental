@@ -37,7 +37,7 @@ public class Student {
             rank = "Yếu";
     }
 
-    // ===== GETTER & SETTER =====
+    // GETTER & SETTER
     public String getStudentId() {
         return studentId;
     }

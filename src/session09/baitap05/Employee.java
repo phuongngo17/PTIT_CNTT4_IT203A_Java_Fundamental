@@ -1,6 +1,6 @@
 package session09.baitap05;
 
-public class Employee {
+public abstract  class Employee {
     protected String name;
 
     public Employee(String name) {

@@ -14,7 +14,7 @@ public abstract class Product {
     public void displayInfo() {
         System.out.println("Id: " + id);
         System.out.println("Name: " + name);
-        System.out.println("Price: " + price);
+        System.out.printf("Price: %.0f\n", price);
     }
     public String getId() {
         return id;

@@ -18,7 +18,7 @@ public class Main {
 
         for (Product p : repo.findAll()) {
             p.displayInfo();
-            System.out.println("Thành tiền: " + p.calculateFinalPrice());
+            System.out.printf("Thành tiền: %,.0f\n", p.calculateFinalPrice());
             System.out.println("------------------");
         }
         System.out.println("Tìm sản phẩm L01");
@@ -44,7 +44,7 @@ public class Main {
 
         for (Product p : list) {
             p.displayInfo();
-            System.out.println("Thành tiền: " + p.calculateFinalPrice());
+            System.out.printf("Thành tiền: %,.0f\n", p.calculateFinalPrice());
             System.out.println("------------------");
         }
 
